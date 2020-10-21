@@ -1,2 +1,2 @@
 # distribution-iOS
-Public repository of JSON files for Carthage binary integration of Living Map SDKs
+Public repository of Living Map binary frameworks for iOS.
