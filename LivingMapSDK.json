@@ -1,3 +1,4 @@
 {
-    "10.2.3" : "https://github.com/livingmap/distribution-Carthage/releases/download/10.2.3/LivingMapSDK.framework.zip"
+    "10.2.3" : "https://github.com/livingmap/distribution-iOS/releases/download/10.2.3/LivingMapSDK.framework.zip",
+    "10.3.6" : "https://github.com/livingmap/distribution-iOS/releases/download/SDKv10.3.6/LivingMapSDK.xcframework.zip"
 }
