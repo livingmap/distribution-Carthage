@@ -7,8 +7,8 @@ this repo is designed to to hold livingMap iOS SKDs binary frameworks/xcFramewor
 
 ## Versions
 
-Latest: 10.3.6  
-Stable: 10.3.6 
+Latest: 10.3.7  
+Stable: 10.3.7 
 
 ### Using custom carthage frameworks/xcFrameworks
 
@@ -53,6 +53,10 @@ make sure the frameworks/xcFrameworks embeded and signed.
 
 - Alamofire v5.4.3
 - SwiftProtobuf 
+
+## Xcode Support 
+- 13.1
+
 
 ## Adding a new frameworks/xcFrameworks
 
